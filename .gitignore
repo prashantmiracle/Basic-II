@@ -1,0 +1,8 @@
+node_modules
+dist
+.next
+.env
+*.pyc
+__pycache__
+reports
+generated_reports
