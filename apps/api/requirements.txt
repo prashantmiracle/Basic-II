@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlmodel
+bcrypt
+PyJWT
+pandas
+rq
+redis
+reportlab
+pytest

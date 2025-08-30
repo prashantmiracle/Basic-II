@@ -1,0 +1,13 @@
+{
+  "name": "fashion-forecasting",
+  "private": true,
+  "workspaces": ["apps/web", "packages/*"],
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "test": "turbo test"
+  },
+  "devDependencies": {
+    "turbo": "^1.10.0"
+  }
+}
